@@ -1,6 +1,7 @@
 ## Olá! Eu sou o José henrique👋
 
-
+Sou um estudante apaixonado por tecnologia, atualmente na UTFPR. Meu objetivo é me tornar um programador qualificado e inovador, impulsionado pela curiosidade e autodidatismo. Enquanto busco aprendizado extra por conta própria. <br>
+<strong>Objetivos Futuros</strong>: Aspiro construir uma carreira sólida como programador, impactando positivamente o mundo com soluções inovadoras e transformadoras. 
 
 
 
@@ -16,8 +17,5 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-## Sobre mim <br>
-Sou um estudante apaixonado por tecnologia, atualmente na UTFPR. Meu objetivo é me tornar um programador qualificado e inovador, impulsionado pela curiosidade e autodidatismo. Enquanto busco aprendizado extra por conta própria. <br>
-<strong>Objetivos Futuros</strong>: Aspiro construir uma carreira sólida como programador, impactando positivamente o mundo com soluções inovadoras e transformadoras. 
-               
+
 
