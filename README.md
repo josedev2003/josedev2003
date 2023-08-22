@@ -5,7 +5,7 @@ Sou um estudante apaixonado por tecnologia, atualmente na UTFPR. Meu objetivo é
 
 
 
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=josedev2003&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que uso diariamente:
 
