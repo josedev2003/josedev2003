@@ -4,7 +4,7 @@ Sou um estudante apaixonado por tecnologia, atualmente na UTFPR. Meu objetivo é
 <strong>Objetivos Futuros</strong>: Aspiro construir uma carreira sólida como programador, impactando positivamente o mundo com soluções inovadoras e transformadoras. 
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josedev2003_icons=true&theme=radical)
 
 
 ## Tecnologias que uso diariamente:
